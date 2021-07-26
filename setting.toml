@@ -4,6 +4,6 @@ engine = "chrome"
 
 [server]
 port = 2000
-host = "0.0.0.0"
+host = "10.0.0.38"
 allow-scripts-executing = true
 log = "/var/log/anychart.log"
