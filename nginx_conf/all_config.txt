@@ -1,8 +1,0 @@
-https://github.com/IntegricityNZ/1PlaceSoftwareLibrary/blob/main/nginx_conf/test.1placeonline.com.conf
-https://github.com/IntegricityNZ/1PlaceSoftwareLibrary/blob/main/nginx_conf/testadmin.1placeonline.com.conf
-https://github.com/IntegricityNZ/1PlaceSoftwareLibrary/blob/main/nginx_conf/testapi.1placeonline.com.conf
-https://github.com/IntegricityNZ/1PlaceSoftwareLibrary/blob/main/nginx_conf/testclient-api.1placeonline.com.conf
-https://github.com/IntegricityNZ/1PlaceSoftwareLibrary/blob/main/nginx_conf/testlogin.1placeonline.com.conf
-https://github.com/IntegricityNZ/1PlaceSoftwareLibrary/blob/main/nginx_conf/testreport.1placeonline.com.conf
-https://github.com/IntegricityNZ/1PlaceSoftwareLibrary/blob/main/nginx_conf/testsubscription.1placeonline.com.conf
-https://github.com/IntegricityNZ/1PlaceSoftwareLibrary/blob/main/nginx_conf/testsurvey.1placeonline.com.conf
