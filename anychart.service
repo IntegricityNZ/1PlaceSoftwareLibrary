@@ -1,0 +1,11 @@
+[Unit]
+Description=anychart service
+After=network.target
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/java -jar /opt/anychart-export-server-8.9.0.jar server -C /opt/setting.toml
+Restart=always
+RestartSec=2
+[Install]
+WantedBy=multi-user.target
