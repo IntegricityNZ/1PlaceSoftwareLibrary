@@ -1,0 +1,14 @@
+[Unit]
+Description=biling service
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/npm/subscriptionSite/
+Type=simple
+User=root
+ExecStart=/usr/local/bin/node -r esm /opt/npm/subscriptionSite/server.js
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target
